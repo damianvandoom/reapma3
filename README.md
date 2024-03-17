@@ -3,6 +3,8 @@
 Project which converts markers from Reaper to Grandma3 timecode and creates a supporting macro. 
 The macro will import the timecode and generate the cues within a sequence. Finally, the sequence will be assigned to an executor.
 
+[Get the latest release from Releases](https://github.com/damianvandoom/reapma3/releases)
+
 # Important
 
 This project is a very basic 'version 1' which does not have any error handling or validation. It is very much a work in progress.
