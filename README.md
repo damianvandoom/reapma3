@@ -90,15 +90,15 @@ If you mess up the configuration, you can reset it by selecting option 3. Reset 
 
 Once you have the configuration set, select option 4. Convert Reaper File.
 
-![](media/reapma33.png)
-
 If you have multiple CSV files in the directory, reapma3 will ask you which file you want to convert.
 
 Select the file you want to convert, and press enter.
 
-![](media/reapma34.png)
+![](media/reapma33.png)
 
 reapma3 will then create the files in the folders you specified in the configuration, or by default the shared grandma3 folder.
+
+![](media/reapma34.png)
 
 ![](media/reapma35.png)
 ![](media/reapma36.png)
@@ -108,25 +108,29 @@ reapma3 will then create the files in the folders you specified in the configura
 
 We need to import the Marco into Grandma3.
 
-![](media/gma1.png)
 
 Select the menu cog
 
-![](media/gma2.png)
+![](media/gma1.png)
 
 Import/Export
 
-![](media/gma3.png)
+![](media/gma2.png)
 
 Macros
 
-![](media/gma4.png)
+![](media/gma3.png)
 
 Scroll to find the Marco in the list, select and click import. 
 
-![](media/gma5.png)
+![](media/gma4.png)
 
 The Macro pool has a new macro called "Time Code Import". Click the Marco. This will import the timecode, create the cues in the sequence and assign the sequence to the executor.
+
+![](media/gma5.png)
+
+
+The timecode and sequence is now created in Grandma3.
 
 ![](media/gma7.png)
 ![](media/gma6.png)
